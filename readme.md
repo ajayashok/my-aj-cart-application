@@ -72,3 +72,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # my-aj-cart-application
 # my-aj-cart-application
+
+Demo 
+------
+
+admin username: admin@gmail.com
+password : 12345678
+
+user username: ajay@gmail.com
+password : ajay12345
+
